@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "name": "wefit-desafio-javascript",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "",
+  "license": "ISC",
+  "description": "![Imagem do Projeto](./printscreen.png)"
+}
