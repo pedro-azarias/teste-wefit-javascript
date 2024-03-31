@@ -20,7 +20,7 @@ Siga estas instruções para instalar e executar o projeto em sua máquina local
   <tr>
     <td align="center">
       <a href="#">
-      <img src="./src/assets/profile-picture.png" width="100px;" alt="Foto do Pedro no GitHub"/><br>
+      <img src="./profile-picture.png" width="100px;" alt="Foto do Pedro no GitHub"/><br>
         <sub>
           <b> Pedro Henrique</b>
         </sub>
